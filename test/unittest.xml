@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="4" failures="0" disabled="0" errors="0" time="0" timestamp="2021-05-10T20:40:00" name="AllTests">
+  <testsuite name="Stock" tests="2" failures="0" disabled="0" errors="0" time="0" timestamp="2021-05-10T20:40:00">
+    <testcase name="constructor" status="run" result="completed" time="0" timestamp="2021-05-10T20:40:00" classname="Stock" />
+    <testcase name="setPrice" status="run" result="completed" time="0" timestamp="2021-05-10T20:40:00" classname="Stock" />
+  </testsuite>
+  <testsuite name="Wallet" tests="2" failures="0" disabled="0" errors="0" time="0" timestamp="2021-05-10T20:40:00">
+    <testcase name="setGetName" status="run" result="completed" time="0" timestamp="2021-05-10T20:40:00" classname="Wallet" />
+    <testcase name="setGetShares" status="run" result="completed" time="0" timestamp="2021-05-10T20:40:00" classname="Wallet" />
+  </testsuite>
+</testsuites>
